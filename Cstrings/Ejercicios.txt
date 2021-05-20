@@ -1,0 +1,22 @@
+Ejemplos
+Ejercicio 1: Escriba un programa que permita al usuario leer interactivamente un dato tipo cstring y exhiba un menú con las opciones:
+
+  1. Pasar a Mayúsculas
+
+  2. Pasar a Minúsculas
+
+  3. Solo la inicial con mayúsculas.
+
+El programa debe resolver la opción seleccionada por el usuario.
+
+Ejercicio 2: Escriba un programa a partir del cual un usuario pueda ingresar una frase cualquiera y determine a través de funciones:
+
+a) La cantidad de vocales de la frase;
+b) La cantidad de consonantes;
+c) La cantidad de letras.
+
+Ejercicio 3: Escriba un programa que permita ingresar una lista de apellidos y nombres de 10 personas (apellido y nombre se asignan a una sola variable). Utilice para cada persona una variable de tipo cstring. El programa debe informar un listado con los 10 apellidos y luego un listado con los 10 nombres. Nota: Considere apellidos formados por una única palabra. La presencia del primer espacio en blanco indica el fin del apellido. Ej: Perez Carlos Federico.
+
+Ejercicio 4: Diseñe una  función C++ int cveces(char *s, char *s1); que detecte la frecuencia de aparición de la cadena s1 dentro de la cadena s que se pasan como parámetros.
+
+Ejercicio 5: Escriba una función C++ llamada Insertar con 3 parámetros: cad1, cad2, i; que permita insertar cad2 en cad1 a partir de la posición i de cad1. La función debe modificar cad1. Por ejemplo: si cad1 contiene el string “El libro” y cad2 el string “primer ”, la llamada a Insertar(cad1, cad2,4) debe lograr que cad1 almacene  “El primer libro”. Nota: la función opera solo con cadenas al estilo C.

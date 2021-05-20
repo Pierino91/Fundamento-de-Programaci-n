@@ -1,0 +1,33 @@
+Ejemplos Arreglos y Struct
+
+Ejercicio sobre arreglos unidimensionales
+
+Opción 1: Leer las 30 notas que un grupo de estudiantes de un curso obtuvo en el examen de matemáticas y calcular el promedio de las mismas.
+
+Opción 2: Leer las notas que un grupo de estudiantes de un curso obtuvo en el examen de matemáticas y calcular el promedio de las mismas. La cantidad de notas a leer se ingresa por teclado.
+
+Opción 3: Leer las notas que un grupo de estudiantes de un curso obtuvo en el examen de matemáticas y calcular el promedio de las mismas. La carga de notas finaliza cuando se lee un valor -1.
+
+Ejercicio sobre arreglos bidimensionales
+1. Leer una matriz de 6x4 elementos. Informar el elemento ubicado en la fila 2 columna 4 con un mensaje alusivo. Obtener también los elementos de la 3er columna y de la fila 5.
+
+2. Generar una matriz cuadrada de 10x10 elementos con valores al azar entre 1 y 5000. Generar un vector con los elementos que estén por encima de la diagonal principal. Informar el vector generado y los elementos de la fila 7 de la matriz.
+
+3. Una empresa está haciendo un estudio de mercado sobre su línea de productos y desea conocer datos sobre la ventas de los primeros 6 meses del año. Su producto son galletitas que se venden en cuatro sabores: vainilla, chocolate, limón y naranja.
+
+Escriba un programa C++ que permita ingresar por pantalla los datos de las cantidades vendidas de cada tipo de galletitas entre enero y junio.
+
+A continuación, calcular e informar:
+
+a. ¿Cuál es el tipo de galletita que más se vendió?
+b. ¿Cuál fue el mes de menor venta?
+c. ¿Cuál fue el tipo de galletita más vendida en junio?
+
+
+Ejercicios sobre Struct 
+
+Ejercicio 1: Genere un programa C++ que lea por teclado dos fracciones, las sume y muestre el resultado por pantalla (fraccion.cpp).
+
+Ejercicio 2: Genere un programa C++ que lea por teclado 10 fracciones, las sume y muestre el resultado por pantalla (fracciones.cpp).
+
+Ejercicio 3: En un curso se registran, por cada estudiante, su número de DNI y las notas de 4 parciales. La carga de datos finaliza cuando se lee un DNI igual a 0. Se desea registrar si el estudiante ha aprobado la materia. Para eso, debe tener aprobados con 6, tres de los cuatro parciales. A partir de los datos muestre por pantalla cuántos estudiantes aprobaron. Se sabe que el curso no tiene más de 100 estudiantes. Use la estructura struct alumno {int DNI; float nota[4]; bool aprob;}; (curso.cpp)

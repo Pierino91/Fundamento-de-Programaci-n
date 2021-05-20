@@ -1,0 +1,2 @@
+Ejemplos
+Ejercicio 1: Leer las notas que un grupo de estudiantes de un curso obtuvo en el examen de matemáticas y calcular el promedio de las mismas mediante una función. La cantidad N de notas a leer se ingresa por teclado.

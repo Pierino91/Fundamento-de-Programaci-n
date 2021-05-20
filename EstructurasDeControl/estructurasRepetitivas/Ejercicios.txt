@@ -1,0 +1,10 @@
+Ejercicios resueltos (estructuras repetitivas)
+Ejercicios resueltos usando estructuras repetitivas en C++
+
+Ejercicio 1: Escriba un programa C++ que permita ingresar un número natural N como dato y muestre los divisores de dicho número.
+
+Ejercicio 2: Escriba un programa C++ que permita ingresar un número natural N como dato y muestre los divisores de dicho número. Debe dar al usuario la posibilidad de seleccionar por un menú la opción de visualizar el listado: 
+
+a) En forma creciente. 
+
+b) En forma decreciente.

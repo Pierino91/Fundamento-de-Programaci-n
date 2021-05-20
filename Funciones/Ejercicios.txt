@@ -1,0 +1,12 @@
+Ejercicio 1: Implemente una función en C++ que permita realizar la potenciación de números enteros. Escriba un programa cliente de dicha función..
+
+Ejercicio 2: Escriba una función que permita intercambiar los contenidos de 2 parámetros tipo float. Escriba un programa cliente de dicha función.
+
+Ejercicio 3: Escriba una función que permita intercambiar dos valores de un arreglo de datos flotantes. La posición de los valores a intercambiar se pasa como parámetro. Escriba un programa cliente de dicha función.
+
+Ejercicio 4: Escriba una función que permita intercambiar dos filas de un arreglo bidimensional de datos. La posición de las filas a intercambiar se pasa como parámetro. Escriba un programa cliente de dicha función.
+
+Ejercicio 5: Considere el struct alumno {int DNI, edad; char carrera;}, donde carrera es un char con la inicial ‘T’, ‘B’, ‘L’ (Transporte, Bioingenieria, Licenciatura en Bioinformática). Escriba una función que reciba como parámetros un arreglo de tipo alumno, su longitud y retorne todos los datos del alumno de mayor edad. Use la función en un programa cliente
+
+Ejercicio 6: Escriba un programa que permita leer los aportes realizados a una asociación cooperadora por sus estudiantes, durante los 12 meses del año. Por cada aporte se registra: año que cursa (1 al 6), mes (1 al 12) y monto. La carga de datos finaliza cuando se ingresa un curso igual a 0. Por medio de una función obtenga cuál fue el aporte realizado por cada uno de los curso e indicar cual fue el que más aportó. Muestre los resultados.
+

@@ -1,0 +1,8 @@
+Ejemplos
+Ejercicio 1: Lea el archivo de texto Lista.txt en un programa C++ y obtenga el promedio de cada estudiante. Escriba otro archivo Condicion.txt que contenga en la primera línea el nombre del alumno y su promedio y en la segunda línea la condición del alumno. La condición queda determinada según el promedio de las notas: entre 60 y 80, alumno regular, mayor a 80 promocional y libre en otro caso.
+
+Ejercicio 2: Modifique el ejercicio anterior para que en lugar de escribir un nuevo archivo, se modifique Lista.txt añadiendo 2 filas más por alumno: una con el promedio y otra con la condición.
+
+Ejercicio 3: Lea el archivo binario Lista.dat, el cual contiene registrado el nombre de un estudiante y tres notas. El archivo de grabó usando el método archi.write((char*)&alumno, sizeof(alumno), donde alumno es un struct que contiene como miembros el nombre de un estudiante (char nom[80]) y tres enteros con las notas. Obtenga el promedio de cada estudiante. Escriba otro archivo Condicion.txt que contenga en la primera línea el nombre del alumno y su promedio y en la segunda línea la condición del alumno. La condición queda determinada según el promedio de las notas: entre 60 y 80, alumno regular, mayor a 80 promocional y libre en otro caso.
+
+Ejercicio 4: Modifique el ejercicio anterior para que en lugar de escribir un nuevo archivo, se modifique Lista.dat añadiendo el promedio y la condición de cada estudiante. 
