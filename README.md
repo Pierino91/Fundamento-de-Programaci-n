@@ -1,17 +1,17 @@
 # Fundamento-de-Programación
 
-##Instalación
+## Instalación
 
 https://docs.github.com/es/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop
 
 
 ## Uso Básico
 
-Más largo pero explica de mejor manera todas las herramientas que brinda Git y Github.
+### Tutorial de Git. Manual básico con ejemplos
 
 https://www.diegocmartin.com/tutorial-git/
 
-Video cortito:
+### ¿Qué es Github? ¿Para qué sirve? ¿Cómo se utiliza? (12 min aprox.)
 
 https://www.youtube.com/watch?v=ggD808TwCvU
 
